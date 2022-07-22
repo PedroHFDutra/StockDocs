@@ -17,7 +17,13 @@ char cargo[999];
 char data_nascimento[999];
 };
 
-void cadastrarIten(){
+void cadastrarIteM(){
+    printf("Vamos iniciar o procedimento de cadastro de item!\n");
+    printf("Começando em:\n");
+    printf("3...\n");
+    printf("2...\n");
+    printf("1...\n");
+    printf("Insira o nome do produto para cadastro:\n");
 
 
 }
