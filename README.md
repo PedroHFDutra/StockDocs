@@ -15,4 +15,7 @@ Software em MS-DOS para controle e organização de produtos e estoques visando 
    <p>
      🗃👷‍♂️ Registro de Profissionais
    </p>
+  <p>
+    <i>(Este projeto parte de uma série de estudos em Linguagem C para o curso de Bacharelado em Engenharia de Software pela UniCesumar)</i>
+    </p>
 </div>
