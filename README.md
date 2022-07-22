@@ -12,4 +12,7 @@ Software em MS-DOS para controle e organização de produtos e estoques visando 
    <p>
     📦✍ Cadastro de Produtos e Itens
    </p>
+   <p>
+     🗃👷‍♂️ Registro de Profissionais
+   </p>
 </div>
