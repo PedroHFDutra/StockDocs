@@ -8,6 +8,7 @@ Software em MS-DOS para controle e organização de produtos e estoques visando 
    </p>
    <p>
    📓🔍 Organização e Consulta de Estoque
+  </p>
+   <p>
    </p>
-   
 </div>
