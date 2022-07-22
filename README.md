@@ -3,4 +3,7 @@
 <p>
 Software em MS-DOS para controle e organização de produtos e estoques visando a melhor gestão de um estabelecimento comercial!
 </p>
+  <p>
+    <b>Recursos e possibilidades disponíveis para uso:</b>
+   </p>
 </div>
